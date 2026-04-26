@@ -1,4 +1,7 @@
-
+CMakeLists.txt linguist-documentation
+*.cmake linguist-documentation
+**/cmake/** linguist-documentation
+build/ linguist-vendored
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.js linguist-vendored
